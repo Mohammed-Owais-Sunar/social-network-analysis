@@ -115,3 +115,6 @@ https://mohammed-owaissanar.github.io/social-network-analysis/
 ---
 
 *B.Tech project — Design and Analysis of Algorithms (DAA)*
+## 🌐 Live Demo
+
+[🚀 Open Social Network Analysis](https://social-network-analysis-seven.vercel.app)
